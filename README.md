@@ -1,6 +1,6 @@
 # Hi, I'm Ram 👋
 
-**DevOps & Integration Architect** · Baden Wuertemberg, DE  
+**DevOps & Integration Architect** · Baden Wuerttemberg, DE  
 Building reliable pipelines by day, self-hosting everything sustainably by night.
 
 ---
@@ -30,7 +30,7 @@ Running a self-hosted ecosystem on **Proxmox** for family & friends:
 | 📸 Immich | Private Google Photos alternative |
 | 🎧 Audiobookshelf | Self-hosted audiobook & podcast server |
 
-**Stack:** Portainer · Tailscale VPN · Nginx Proxy Manager · DuckDNS + DNS-01 SSL
+**Stack:** Docker/Portainer · Tailscale VPN · Nginx Proxy Manager · DuckDNS + DNS-01 SSL
 
 ---
 
