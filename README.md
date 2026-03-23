@@ -60,7 +60,7 @@
       </tr>
       <tr>
         <td>🎬 Jellyfin + mediastack</td>
-        <td>Self-hosted media server with full *arr automation</td>
+        <td>Self-hosted media server with full automation</td>
       </tr>
       <tr>
         <td>📚 Moodle</td>
