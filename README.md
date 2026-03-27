@@ -87,7 +87,7 @@
   <p style="color:#555;"><em>Open to freelance and collaboration opportunities.</em></p>
   <p>
     <a href="mailto:srnarayanan1989@gmail.com">
-      <img src="https://img.shields.io/badge/email-srnarayanan1989%40gmail.com-0d1117?style=flat&logo=gmail&logoColor=white" alt="Email">
+      <img src="https://img.shields.io/badge/email-say%20hello!👋-0d1117?style=flat&logo=gmail&logoColor=white" alt="Email">
     </a>
     <a href="https://www.linkedin.com/in/ramsambamurthy/">
       <img src="https://img.shields.io/badge/LinkedIn-ramsambamurthy-0d1117?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
